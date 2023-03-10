@@ -33,6 +33,7 @@ button.record-day {
   border: 1px solid var(--color-purple);
   background-color: var(--color-black);
   color: var(--color-white);
+  cursor: pointer;
 
   display: flex;
   align-items: center;
