@@ -29,7 +29,7 @@ This project were developed using the follow tecnologies:
 
 Habits Simple Version is a simple version of a little project developed during a RocketSeat event
 
-- [Acess this online here](https://maykbrito.github.io/devlinks)
+- [Acess this online here](https://rodrigo7584.github.io/habits-simple-version/)
 
 ## 🔖 Layout
 
